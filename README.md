@@ -29,6 +29,18 @@ I'm passionate about software quality, test automation, and building reliable te
 
 🔗 [View Automation Project](https://github.com/stefanpoia/Batch25StefanPoiaSingleProject)
 
+## 💼 Professional Experience
+
+### QA Automation Engineer | 5 Years of Experience
+
+**Technical Expertise:**
+- UI test automation using Java, Selenium WebDriver, TestNG and Cucumber BDD
+- API testing with REST Assured, Postman and Newman
+- Test framework development using Page Object Model (POM)
+- CI/CD integration with Jenkins, Maven and GitHub
+- Database testing and SQL validation using MySQL and JDBC
+- Test planning, bug reporting and defect tracking with Jira
+
 ## 🤝 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/stefan-poia-00533b136/)
