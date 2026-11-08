@@ -27,7 +27,7 @@ I'm passionate about software quality, test automation, and building reliable te
 - Employee CRUD workflows and database validation
 - CI/CD test execution with Jenkins
 
-🔗 [View Automation Project](https://github.com/stefanpoia/Batch25StefanPoiaSingleProject)
+🔗 [View HRMS Test Automation Framework](https://github.com/stefanpoia/HRMS-Test-Automation-Framework)
 
 ## 💼 Professional Experience
 
